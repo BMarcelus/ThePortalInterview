@@ -21,5 +21,9 @@ this.date.equals(other.date) && ( (other.start >= this.start && other.start < th
 It compares the start and end times as integer values that is equal to the number of minutes from 12:00 AM 
 I use a function that turns hours, minutes, and pm arguments into this integer number. This makes it easier to translate the text sample data into the integers.
 
+You can run the file through the task2driver.html 
+and view the console (through inspect element)
+to see the results of running the program
+
 
 Brian Dizon
